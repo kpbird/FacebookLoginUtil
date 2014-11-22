@@ -28,7 +28,7 @@ Previous Document: http://www.kpbird.com/2013/03/android-login-using-facebook-sd
         Log.i(TAG,profile.getString(FacebookLoginUtils.LAST_NAME));
 
     }
-#### Step 4: Declare object of GooglePlusLoginUtils.java
+#### Step 4: Declare object of FacebookLoginUtils.java
     private FacebookLoginUtils fLogin;
 
 #### Step 5: Initialize object in onCreate method
